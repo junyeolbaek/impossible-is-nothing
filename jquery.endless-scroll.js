@@ -71,7 +71,7 @@ EndlessScroll = (function() {
     inflowPixels: 50,
     fireOnce: true,
     fireDelay: 150,
-    loader: 'Loading...',
+    loader: '',
     content: '',
     insertBefore: null,
     insertAfter: null,
